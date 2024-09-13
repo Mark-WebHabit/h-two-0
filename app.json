@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "h20",
+    "slug": "h20",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/spashlogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/spashlogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/aspashlogo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b1371f05-6cb6-4f66-b1de-0af672bf72cf"
+      }
+    },
+    "owner": "markluiz"
+  }
+}
