@@ -12,13 +12,7 @@ import ReactNativeAsyncStorage from "@react-native-async-storage/async-storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-	apiKey: "AIzaSyApx3R7MWTUKxtvx1vCOe7M81LjsAZkXmE",
-	authDomain: "ezpay-94408.firebaseapp.com",
-	databaseURL: "https://ezpay-94408-default-rtdb.firebaseio.com",
-	projectId: "ezpay-94408",
-	storageBucket: "ezpay-94408.appspot.com",
-	messagingSenderId: "515373396121",
-	appId: "1:515373396121:web:ae786570179c5cf2938808",
+	// replace withyour actula firebase config
 };
 // Initialize Firebase
 export const app = initializeApp(firebaseConfig);
